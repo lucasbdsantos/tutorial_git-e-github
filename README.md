@@ -5,9 +5,9 @@ Este repositório foi criado exclusivamente para o aprendizado e a centralizaç�
 ## Estrutura do Repositório
 ```text
 ├── git/
-│   ├── 1-configurando_git/     # Configuração inicial do usuário e segurança (SSH)
-│   ├── 2-git_na_pratica/        # Criação, ciclo de vida e envio de repositórios locais
-│   └── 3-comandos_importantes/  # Manipulação, histórico e gerenciamento avançado de arquivos
+│   ├── 1-configurando_git/       # Configuração inicial do usuário e segurança (SSH)
+│   ├── 2-git_na_pratica/         # Criação, ciclo de vida e envio de repositórios locais
+│   └── 3-comandos_importantes/   # Histórico, diferenças, arquivos e gerenciamento de branches  
 ├── github/
 │   ├── 1-criando_repositorio/   # Passos para criar repositórios remotos na plataforma web
 │   ├── 2-clonado_repositorio/   # Procedimento para baixar projetos existentes para a máquina

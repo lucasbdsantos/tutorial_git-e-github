@@ -1,16 +1,10 @@
-# pull request do github
-
-essa ferramneta é utilizada para a pessoa sugerir melhorias no para o autor do repositorio
-
-caso vc seja o autor, vc pode aceitar a melhoria sugerida e o proprio github adciona essa mudança no seu repositorio
-
-
 # Entendendo o Pull Request no GitHub
 
 O **Pull Request** (frequentemente chamado de **PR**) é uma das ferramentas mais importantes do GitHub. Ele é o coração do trabalho colaborativo. 
 
 Quando você cria um Pull Request, você está dizendo ao dono de um projeto: *"Olá! Eu fiz algumas melhorias no seu código. Você poderia **puxar** essas alterações para o seu repositório original?"*.
 
+> Essa ferramenta é utilizada para que uma pessoa sugira melhorias para o autor do repositório.
 
 ## Como funciona o fluxo de um Pull Request?
 
